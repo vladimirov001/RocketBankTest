@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RocketTest</string>
+    <string name="button_size">Size</string>
+    <string name="button_generate">Generate</string>
+    <string name="label_speed">Speed</string>
+    <string name="label_select_alg">Select alg</string>
+    <string name="hint_width">Width</string>
+    <string name="hint_height">Height</string>
+    <string name="alert_title">Size</string>
+    <string name="alert_button_save">Save</string>
+    <string name="alert_button_cancel">Cancel</string>
+
+</resources>
