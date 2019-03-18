@@ -1,10 +1,8 @@
 package ru.vladimirov.rockettest.rockettest
 
-import android.content.DialogInterface
 import android.content.res.Configuration
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import android.view.LayoutInflater
 import android.view.View
 import android.widget.AdapterView
 import android.widget.AdapterView.OnItemSelectedListener
